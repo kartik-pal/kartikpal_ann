@@ -55,3 +55,5 @@
 .x{
     overflow:auto;
 }
+.navbar navbar-dark bg-secondary{
+    color: black;
